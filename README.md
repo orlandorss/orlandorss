@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @orlandorss
-- 👀 I'm interested in mobile development
-- 🌱 I’m currently learning Kotlin
-- 📫 How to reach me orlando.r.s@outlook.com
+- 👀 I'm interested in - Mobile development
+- 🌱 I’m currently learning -  Kotlin
+- 📫 How to reach me - orlando.r.s@outlook.com
 
 <!---
 orlandorss/orlandorss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
